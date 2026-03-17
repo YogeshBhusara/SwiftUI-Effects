@@ -25,7 +25,7 @@ A SwiftUI app showcasing a collection of modern, animated visual effects impleme
 
 All effects expose a control panel with a glassy, iOS-style UI for real-time tweaking.
 
-https://vimeo.com/1174441295?fl=tl&fe=ec
+App Video - https://vimeo.com/1174441295?fl=tl&fe=ec
 
 ## Project Structure
 
